@@ -6,3 +6,8 @@ mall
 mallEvil
 school
 schoolEvil
+chaos
+zantaStage
+GreenHill
+stage-deathmatch
+super idol
