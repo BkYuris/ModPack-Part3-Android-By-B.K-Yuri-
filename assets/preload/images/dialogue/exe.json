@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		140,
+		20
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "EXELoom",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "EXELoom0000",
+			"anim": "Loom",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "EXE_Dialouge"
+}
