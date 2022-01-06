@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tom.png"><SubTexture name="tom idle0000" x="0" y="0" width="431" height="474" frameX="0" frameY="0" frameWidth="431" frameHeight="474" />
+<SubTexture name="tom gun idle0000" x="431" y="0" width="510" height="480" frameX="0" frameY="0" frameWidth="510" frameHeight="480" />
+<SubTexture name="tom gun up0000" x="941" y="0" width="530" height="462" frameX="0" frameY="0" frameWidth="530" frameHeight="462" />
+<SubTexture name="tom gun left0000" x="0" y="480" width="499" height="477" frameX="0" frameY="0" frameWidth="499" frameHeight="477" />
+<SubTexture name="tom gun right0000" x="499" y="480" width="508" height="471" frameX="0" frameY="0" frameWidth="508" frameHeight="471" />
+<SubTexture name="tom gun down0000" x="1007" y="480" width="504" height="487" frameX="0" frameY="0" frameWidth="504" frameHeight="487" />
+<SubTexture name="tom gun shoot0000" x="0" y="967" width="597" height="577" frameX="0" frameY="0" frameWidth="597" frameHeight="577" />
+<SubTexture name="tom gun shoot0001" x="597" y="967" width="526" height="479" frameX="0" frameY="0" frameWidth="526" frameHeight="479" />
+<SubTexture name="tom gun shoot0002" x="1123" y="967" width="527" height="479" frameX="0" frameY="0" frameWidth="527" frameHeight="479" />
+<SubTexture name="tom gun shot0000" x="0" y="1544" width="1628" height="477" frameX="0" frameY="0" frameWidth="1628" frameHeight="477" />
+<SubTexture name="tom gun shot0001" x="1628" y="1544" width="470" height="501" frameX="0" frameY="0" frameWidth="470" frameHeight="501" />
+<SubTexture name="tom gun shot0002" x="2098" y="1544" width="453" height="501" frameX="0" frameY="0" frameWidth="453" frameHeight="501" />
+<SubTexture name="tom gun shot0003" x="0" y="2045" width="453" height="621" frameX="0" frameY="0" frameWidth="453" frameHeight="621" />
+<SubTexture name="tom gun shot0004" x="453" y="2045" width="431" height="474" frameX="0" frameY="0" frameWidth="431" frameHeight="474" />
+</TextureAtlas>
