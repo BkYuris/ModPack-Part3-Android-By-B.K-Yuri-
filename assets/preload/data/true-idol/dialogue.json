@@ -1,0 +1,18 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.065,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "uh.... "
+		},
+		{
+			"speed": 0.14,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "confused",
+			"text": "what happend?"
+		}
+	]
+}
