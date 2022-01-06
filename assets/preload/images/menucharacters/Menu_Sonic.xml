@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Sonic.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="M Sonic Idle0000" x="0" y="0" width="223" height="227"/>
+	<SubTexture name="M Sonic Idle0001" x="223" y="0" width="223" height="227"/>
+	<SubTexture name="M Sonic Idle0002" x="446" y="0" width="223" height="227"/>
+	<SubTexture name="M Sonic Idle0003" x="669" y="0" width="223" height="227"/>
+	<SubTexture name="M Sonic Idle0004" x="892" y="0" width="223" height="227"/>
+	<SubTexture name="M Sonic Confirm0000" x="0" y="227" width="223" height="227"/>
+	<SubTexture name="M Sonic Confirm0001" x="223" y="227" width="223" height="227"/>
+	<SubTexture name="M Sonic Confirm0002" x="446" y="227" width="223" height="227"/>
+	<SubTexture name="M Sonic Confirm0003" x="669" y="227" width="223" height="227"/>
+	<SubTexture name="M Sonic Confirm0004" x="892" y="227" width="223" height="227"/>
+</TextureAtlas>

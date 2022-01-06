@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "M Sonic Confirm",
+	"position": [
+		40,
+		-125
+	],
+	"scale": 1,
+	"image": "Menu_Sonic"
+}
