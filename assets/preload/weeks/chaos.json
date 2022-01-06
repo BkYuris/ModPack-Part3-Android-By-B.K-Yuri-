@@ -1,0 +1,31 @@
+{
+	"storyName": "saruv",
+	"hideFreeplay": false,
+	"weekBackground": "sarvente and ruv",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "Too Slow",
+	"startUnlocked": true,
+	"difficulties": "hard",
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"chaos",
+			"sarvente",
+			[
+				20,
+				20,
+				20
+			]
+		]
+	],
+	"weekName": "chaos"
+}

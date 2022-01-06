@@ -1,0 +1,24 @@
+{
+	"storyName": "ORIGINAL SONG BY MARSTARBRO, COVER BY SOUFON",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Too Slow",
+			"sonicsg",
+			[
+				160,
+				209,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"sonic",
+		"bf",
+		"gf"
+	],
+	"hideFreeplay": false,
+	"weekBackground": "ghz",
+	"weekName": "Too Slow"
+}

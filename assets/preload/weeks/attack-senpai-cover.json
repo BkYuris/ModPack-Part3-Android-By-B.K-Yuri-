@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Attack", "senpai-pixel", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"senpai",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "school",
+
+	"storyName": "Attack Senpai Cover",
+	"weekBefore": "weekdead",
+	"weekName": "Attack",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

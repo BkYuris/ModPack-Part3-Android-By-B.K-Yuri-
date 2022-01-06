@@ -1,0 +1,66 @@
+{
+	"storyName": "Funny",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "Zanta",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Shaggy-Idol",
+			"rshaggy",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Super-Bf-Idol",
+			"bf-pixel",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Super-Funky-Idol",
+			"bf-pixel",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Super-Idol-105'C",
+			"gf",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"True-Idol",
+			"idol",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "Super Idol"
+}
