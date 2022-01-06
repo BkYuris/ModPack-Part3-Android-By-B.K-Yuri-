@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EXE_Dialouge.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EXELoom0000" x="0" y="0" width="306" height="420"/>
+	<SubTexture name="EXELoom0001" x="306" y="0" width="306" height="420"/>
+	<SubTexture name="EXELoom0002" x="612" y="0" width="306" height="420"/>
+</TextureAtlas>

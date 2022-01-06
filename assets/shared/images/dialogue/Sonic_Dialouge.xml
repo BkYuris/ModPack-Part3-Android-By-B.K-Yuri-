@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sonic_Dialouge.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SonicShout0000" x="0" y="0" width="342" height="420"/>
+	<SubTexture name="SonicShout0001" x="342" y="0" width="342" height="420"/>
+	<SubTexture name="SonicShout0002" x="684" y="0" width="342" height="420"/>
+	<SubTexture name="SonicShock0000" x="1026" y="0" width="342" height="420"/>
+	<SubTexture name="SonicCool0000" x="1368" y="0" width="342" height="420"/>
+</TextureAtlas>
