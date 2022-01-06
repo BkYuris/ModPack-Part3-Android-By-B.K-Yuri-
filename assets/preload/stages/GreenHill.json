@@ -1,0 +1,8 @@
+{
+	"directory": "sonic",
+	"defaultZoom": 0.4,
+	"isPixelStage": true,
+	"boyfriend": [1600, 625],
+	"girlfriend": [1215, 850],
+	"opponent": [930, 650]
+}
