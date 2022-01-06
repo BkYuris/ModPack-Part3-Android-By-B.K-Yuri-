@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 1.8,
+		"stage": "GreenHill",
+		"player1": "bf-16",
+		"player2": "Sonic_Pixel",
+		"player3": null,
+		"events": [
+			[
+				85333.3333333334,
+				[
+					[
+						"Change Character",
+						"1",
+						"Sonic_EXE_Pixel"
+					]
+				]
+			],
+			[
+				85333.3333333334,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-blank"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-blank",
+		"bpm": 135,
+		"arrowSkin": "NESNOTE_assets",
+		"needsVoices": true,
+		"song": "Too Slow"
+	}
+}

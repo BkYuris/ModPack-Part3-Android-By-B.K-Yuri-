@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "So you're Sonic, right?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "cool",
+			"text": "Haha, very funny.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sonic"
+		},
+		{
+			"expression": "SonicShout",
+			"text": "Why do YOU get to stay human?!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "sonic"
+		},
+		{
+			"expression": "talk",
+			"text": "YOu poOr LitTle HEdgEhOG.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "exe"
+		}
+	]
+}
