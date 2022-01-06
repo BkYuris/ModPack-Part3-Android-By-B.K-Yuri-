@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="edd.png"><SubTexture name="edd left0000" x="0" y="0" width="385" height="428" frameX="0" frameY="0" frameWidth="385" frameHeight="428" />
+<SubTexture name="edd idle0000" x="385" y="0" width="380" height="426" frameX="0" frameY="0" frameWidth="380" frameHeight="426" />
+<SubTexture name="edd right0000" x="765" y="0" width="342" height="425" frameX="0" frameY="0" frameWidth="342" frameHeight="425" />
+<SubTexture name="edd up0000" x="1107" y="0" width="366" height="423" frameX="0" frameY="0" frameWidth="366" frameHeight="423" />
+<SubTexture name="edd down0000" x="0" y="428" width="366" height="409" frameX="0" frameY="0" frameWidth="366" frameHeight="409" />
+<SubTexture name="edd annoyed0000" x="366" y="428" width="379" height="426" frameX="0" frameY="0" frameWidth="379" frameHeight="426" />
+<SubTexture name="edd annoyed0001" x="745" y="428" width="379" height="426" frameX="0" frameY="0" frameWidth="379" frameHeight="426" />
+<SubTexture name="edd alt idle0000" x="1124" y="428" width="380" height="426" frameX="0" frameY="0" frameWidth="380" frameHeight="426" />
+<SubTexture name="edd alt idle0001" x="0" y="854" width="379" height="426" frameX="0" frameY="0" frameWidth="379" frameHeight="426" />
+<SubTexture name="edd idiot0000" x="379" y="854" width="380" height="426" frameX="0" frameY="0" frameWidth="380" frameHeight="426" />
+<SubTexture name="edd idiot0001" x="759" y="854" width="380" height="426" frameX="0" frameY="0" frameWidth="380" frameHeight="426" />
+<SubTexture name="edd idiot0002" x="1139" y="854" width="380" height="426" frameX="0" frameY="0" frameWidth="380" frameHeight="426" />
+<SubTexture name="edd idiot0003" x="0" y="1280" width="380" height="426" frameX="0" frameY="0" frameWidth="380" frameHeight="426" />
+<SubTexture name="edd idiot0004" x="380" y="1280" width="380" height="426" frameX="0" frameY="0" frameWidth="380" frameHeight="426" />
+<SubTexture name="edd yell0000" x="760" y="1280" width="397" height="418" frameX="0" frameY="0" frameWidth="397" frameHeight="418" />
+<SubTexture name="edd yell0001" x="1157" y="1280" width="397" height="418" frameX="0" frameY="0" frameWidth="397" frameHeight="418" />
+<SubTexture name="edd yell0002" x="0" y="1706" width="397" height="418" frameX="0" frameY="0" frameWidth="397" frameHeight="418" />
+<SubTexture name="edd yell0003" x="397" y="1706" width="397" height="417" frameX="0" frameY="0" frameWidth="397" frameHeight="417" />
+<SubTexture name="edd yell0004" x="794" y="1706" width="397" height="417" frameX="0" frameY="0" frameWidth="397" frameHeight="417" />
+<SubTexture name="edd yell0005" x="1191" y="1706" width="397" height="417" frameX="0" frameY="0" frameWidth="397" frameHeight="417" />
+</TextureAtlas>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf-16.png">
+<SubTexture name="BF DOWN NOTE0000" x="0" y="0" width="51" height="51" frameX="0" frameY="0" frameWidth="51" frameHeight="51" />
+<SubTexture name="BF DOWN NOTE0001" x="51" y="0" width="51" height="51" frameX="0" frameY="0" frameWidth="51" frameHeight="51" />
+<SubTexture name="BF IDLE0000" x="102" y="0" width="51" height="51" frameX="0" frameY="0" frameWidth="51" frameHeight="51" />
+<SubTexture name="BF IDLE0001" x="0" y="51" width="51" height="51" frameX="0" frameY="0" frameWidth="51" frameHeight="51" />
+<SubTexture name="BF IDLE0002" x="51" y="51" width="51" height="51" frameX="0" frameY="0" frameWidth="51" frameHeight="51" />
+<SubTexture name="BF IDLE0003" x="102" y="51" width="51" height="51" frameX="0" frameY="0" frameWidth="51" frameHeight="51" />
+<SubTexture name="BF LEFT NOTE0000" x="51" y="102" width="51" height="51" frameX="0" frameY="0" frameWidth="51" frameHeight="51" />
+<SubTexture name="BF LEFT NOTE0001" x="102" y="102" width="51" height="51" frameX="0" frameY="0" frameWidth="51" frameHeight="51" />
+<SubTexture name="BF RIGHT NOTE0000" x="0" y="153" width="51" height="51" frameX="0" frameY="0" frameWidth="51" frameHeight="51" />
+<SubTexture name="BF RIGHT NOTE0001" x="51" y="153" width="51" height="51" frameX="0" frameY="0" frameWidth="51" frameHeight="51" />
+<SubTexture name="BF HEY0000" x="102" y="153" width="51" height="51" frameX="0" frameY="0" frameWidth="51" frameHeight="51" />
+<SubTexture name="BF HEY0001" x="0" y="204" width="51" height="51" frameX="0" frameY="0" frameWidth="51" frameHeight="51" />
+<SubTexture name="BF UP NOTE0000" x="51" y="204" width="51" height="51" frameX="0" frameY="0" frameWidth="51" frameHeight="51" />
+<SubTexture name="BF UP NOTE0001" x="102" y="204" width="51" height="51" frameX="0" frameY="0" frameWidth="51" frameHeight="51" />
+<SubTexture name="BF DOWN MISS0000" x="0" y="255" width="51" height="51" frameX="0" frameY="0" frameWidth="51" frameHeight="51" />
+<SubTexture name="BF LEFT MISS0000" x="51" y="255" width="51" height="51" frameX="0" frameY="0" frameWidth="51" frameHeight="51" />
+<SubTexture name="BF RIGHT MISS0000" x="102" y="255" width="51" height="51" frameX="0" frameY="0" frameWidth="51" frameHeight="51" />
+<SubTexture name="BF UP MISS0000" x="0" y="306" width="51" height="51" frameX="0" frameY="0" frameWidth="51" frameHeight="51" />
+<SubTexture name="BF SHAKE0000" x="51" y="306" width="51" height="51" frameX="0" frameY="0" frameWidth="51" frameHeight="51" />
+<SubTexture name="BF SHAKE0001" x="102" y="306" width="51" height="51" frameX="0" frameY="0" frameWidth="51" frameHeight="51" />
+</TextureAtlas>

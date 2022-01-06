@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Tali.png">
+<SubTexture name="Tali idle0000" x="0" y="0" width="57" height="122" frameX="0" frameY="0" frameWidth="57" frameHeight="122" />
+<SubTexture name="Tali idle0001" x="57" y="0" width="57" height="122" frameX="0" frameY="0" frameWidth="57" frameHeight="122" />
+<SubTexture name="Tali idle0002" x="114" y="0" width="57" height="122" frameX="0" frameY="0" frameWidth="57" frameHeight="122" />
+<SubTexture name="Tali idle0003" x="171" y="0" width="57" height="122" frameX="0" frameY="0" frameWidth="57" frameHeight="122" />
+<SubTexture name="Tali NOTE RIGHT0000" x="0" y="122" width="57" height="122" frameX="0" frameY="0" frameWidth="57" frameHeight="122" />
+<SubTexture name="Tali NOTE RIGHT0001" x="51" y="122" width="57" height="122" frameX="0" frameY="0" frameWidth="57" frameHeight="122" />
+<SubTexture name="Tali NOTE RIGHT0002" x="114" y="122" width="57" height="122" frameX="0" frameY="0" frameWidth="57" frameHeight="122" />
+<SubTexture name="Tali NOTE RIGHT0003" x="171" y="122" width="57" height="122" frameX="0" frameY="0" frameWidth="57" frameHeight="122" />
+</TextureAtlas>

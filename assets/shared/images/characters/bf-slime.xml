@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf-slime.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF IDLE instance 10000" x="0" y="0" width="70" height="70"/>
+	<SubTexture name="BF IDLE instance 10001" x="70" y="0" width="70" height="70"/>
+	<SubTexture name="BF IDLE instance 10002" x="140" y="0" width="70" height="70"/>
+</TextureAtlas>

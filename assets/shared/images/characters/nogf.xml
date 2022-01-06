@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nogf.png">
+<SubTexture name="NOGF Idle0000" x="0" y="0" width="4096" height="4096"/>
+</TextureAtlas>
