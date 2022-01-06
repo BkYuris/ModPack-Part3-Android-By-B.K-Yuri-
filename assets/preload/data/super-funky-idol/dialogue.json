@@ -1,0 +1,18 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "super idol (desam rom do mayne de tean bya cohnlo de yam gon do mayne yowlin yeha i eat palin o too nani)",
+			"boxState": "normal",
+			"speed": 0.055,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bro what"
+		}
+	]
+}
