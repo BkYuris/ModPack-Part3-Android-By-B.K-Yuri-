@@ -542,7 +542,7 @@ class TitleState extends MusicBeatState
 					ngSpr.visible = false;
 				// credTextShit.visible = false;
 
-				// credTextShit.text = 'Shoutouts Tom Fulp';
+				// credTextShit.text = 'ModPack Creates By B.K [Yuri]';
 				// credTextShit.screenCenter();
 				case 9:
 					createCoolText([curWacky[0]]);
@@ -563,8 +563,10 @@ class TitleState extends MusicBeatState
 				// credTextShit.text += '\nNight';
 				case 15:
 					addMoreText('Funkin'); // credTextShit.text += '\nFunkin';
-
-				case 16:
+                case 16:
+                    addMoreText('ModPack Part.3 Demo');
+                // credTextShit.text += '\nModPack Part.3 Demo';
+				case 17:
 					skipIntro();
 			}
 		}

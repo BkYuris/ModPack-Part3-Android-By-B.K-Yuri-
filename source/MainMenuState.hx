@@ -290,11 +290,7 @@ class MainMenuState extends MusicBeatState
 				var add:Float = 0;
 				if(menuItems.length > 4) {
 					add = menuItems.length * 8;
-				}
-				camFollow.setPosition(spr.getGraphicMidpoint().x, spr.getGraphicMidpoint().y - add);
-				spr.centerOffsets();
-			}
-			FlxTween.tween(spr,{y: -100}, 1.4, {ease: FlxEase.expoInOut});
+				FlxTween.tween(spr,{y: -100}, 1.4, {ease: FlxEase.expoInOut});
 
 			spr.angle = -4;
 
@@ -305,6 +301,10 @@ class MainMenuState extends MusicBeatState
 					if (spr.angle == 4) 
 						FlxTween.angle(spr, spr.angle, -4, 4, {ease: FlxEase.quartInOut});
 				}, 0);
+				}
+				camFollow.setPosition(spr.getGraphicMidpoint().x, spr.getGraphicMidpoint().y - add);
+				spr.centerOffsets();
+			}
 		});
 	}
 }
