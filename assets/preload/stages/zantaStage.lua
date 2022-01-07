@@ -47,7 +47,7 @@ function onCreate()
 
 
 
-	makeAnimatedLuaSprite('matt','characters/zanta/matt',-7,186)
+	makeAnimatedLuaSprite('matt','characters/zanta/Matt',-7,186)
 	addAnimationByIndices('matt','idle','matt idle','0',24)
 	addAnimationByIndices('matt','hm','matt idle','1',24)
 	addLuaSprite('matt',true)
