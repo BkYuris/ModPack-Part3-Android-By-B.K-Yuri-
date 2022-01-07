@@ -1,0 +1,57 @@
+{
+	"songs": [
+		[
+			"good enough",
+			"annie",
+			[
+				163,
+				191,
+				196
+			]
+		],
+		[
+			"lover",
+			"annie",
+			[
+				163,
+				191,
+				196
+			]
+		],
+		[
+			"tug of war",
+			"annie",
+			[
+				163,
+				191,
+				196
+			]
+		],
+		[
+			"animal",
+			"annie_liquid",
+			[
+				163,
+				191,
+				196
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "street",
+	"weekCharacters": [
+		"annie",
+		"bf",
+		"gf"
+	],
+	"storyName": "annie",
+	"weekName": "annie",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "attack senpai cover",
+	"startUnlocked": true
+}
