@@ -293,6 +293,17 @@ class MainMenuState extends MusicBeatState
 				camFollow.setPosition(spr.getGraphicMidpoint().x, spr.getGraphicMidpoint().y - add);
 				spr.centerOffsets();
 			}
+			FlxTween.tween(spr,{y: -100}, 1.4, {ease: FlxEase.expoInOut});
+
+			spr.angle = -4;
+
+			new FlxTimer().start(0.01, function(tmr:FlxTimer)
+			{
+					if(spr.angle == -4) 
+						FlxTween.angle(spr, spr.angle, 4, 4, {ease: FlxEase.quartInOut});
+					if (spr.angle == 4) 
+						FlxTween.angle(spr, spr.angle, -4, 4, {ease: FlxEase.quartInOut});
+				}, 0);
 		});
 	}
 }
