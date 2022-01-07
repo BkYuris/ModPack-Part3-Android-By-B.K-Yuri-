@@ -1,6 +1,7 @@
 {
 	"song": {
 		"player1": "bf-deathmatch",
+		"arrowSkin": "DEATHMATCHNOTE_assets",
 		"sectionLengths": [],
 		"notes": [
 			{
